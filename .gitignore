@@ -1,0 +1,15 @@
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+# Arquivos de ambiente
+.env
+*.log
+
+# Arquivos de banco de dados
+*.sql.bak
+
+# Arquivos do sistema
+*.cadastro.DB
