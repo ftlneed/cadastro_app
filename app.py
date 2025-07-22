@@ -5,7 +5,6 @@ from database import criar_tabela, inserir_usuario, listar_usuarios
 # Cria a tabela se não existir
 criar_tabela()
 
-ADMIN_SENHA = "admin123"  # senha do administrador
 
 def salvar():
     nome = entry_nome.get()
